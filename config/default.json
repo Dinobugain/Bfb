@@ -1,0 +1,6 @@
+{
+ "contractAddress": "0xf5c1b178f0f3c76cb629bb391d9baea1d2e1d21f", 
+ "defaultFrom": "0x1234567890123456789012345678901234567891",
+ "defaultGas": "3000000000",
+ "ethNetwork": "https://eth-rinkeby.alchemyapi.io/v2/p9JiT1p3kdvXmFQnNDdL-fpwSxUmYSCV"
+}
